@@ -1,0 +1,23 @@
+form {
+  margin: 5px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+form input, form textarea {
+  width: 100%;
+}
+
+form textarea {
+  height: 200px;
+}
+
+form button {
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 5px;
+}
